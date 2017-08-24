@@ -1,0 +1,28 @@
+.box {
+    margin:50px; 
+    margin:50px; 
+    padding:50px; 
+    width:800px;
+    height:400px;
+    background-color:lightgreen; 
+    
+}
+
+.boxsmall {
+    margin:5px; 
+    margin:5px; 
+    padding:5px; 
+    width:400px;
+    height:20px;
+    background-color:red; 
+}
+
+#box3, #box4,#box5, #box6{
+    position:relative;
+    display:inline-block;
+}
+
+#box4{
+   
+    top:200px;   
+}
